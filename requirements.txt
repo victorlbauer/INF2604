@@ -1,2 +1,4 @@
 numpy
 matplotlib
+clifford
+numba==0.58.1
